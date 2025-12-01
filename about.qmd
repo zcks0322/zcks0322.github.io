@@ -3,4 +3,6 @@ title: "About"
 format: html
 ---
 
-An awesome English major from South Korea!
+Hi, my name is Seung chan Paek Welcome yo my site. I'm a college student attending GNSU.
+
+![](images/Robert Lewandowski.avif)
